@@ -13,27 +13,27 @@
 <h3 align="left">Mis Lenguajes:</h3>
 
 <h2> Lenguajes de desarollo</h2>
-<li>
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/python.svg" alt="bash" width="40" height="40"/> </a> 
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/c.svg" alt="bash" width="40" height="40"/> </a> 
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/csharp.svg" alt="bash" width="40" height="40"/> </a> 
 
-</li>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/python.svg" alt="bash" width="40" height="40"/> </a> 
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/c.svg" alt="bash" width="40" height="40"/> </a> 
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/csharp.svg" alt="bash" width="40" height="40"/> </a> 
+
+
 
 <h2> Desarollo Web (FRONTEND)</h2>
-<li>
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/css.svg" alt="bash" width="40" height="40"/> </a> 
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/html.svg" alt="bash" width="40" height="40"/> </a> 
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/boostrap.svg" alt="bash" width="40" height="40"/> </a> 
 
-</li>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/css.svg" alt="bash" width="40" height="40"/> </a> 
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/html.svg" alt="bash" width="40" height="40"/> </a> 
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/bootstrap.svg" alt="bash" width="40" height="40"/> </a> 
+
+
 
 <h2> Base de datos</h2>
-<li>
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Database/sql.svg" alt="bash" width="40" height="40"/> </a> 
-</li>
-  
- 
+ <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Database/mysql.svg" alt="bash" width="40" height="40"/> </a> 
+
+
+
+  <h3>Mis estadisticas: </h3>
 
 <!-- STATS Y LENGUAJES MAS USADOS -->
 <div style="display:grid;align-items:center;justify-content:center">
