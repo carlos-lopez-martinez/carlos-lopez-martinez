@@ -4,7 +4,7 @@
 <p align="left">
   <a href="https://x.com/carlossslpzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="carlossslpz" height="30" width="40" /></a>
   <a href="https://www.instagram.com/carlossss_lpz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="carloissslpz" height="30" width="40" /></a>
-   <a href="https://www.linkedin.com/in/carlos-lopez-195279350/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in.svg" alt="carloissslpz" height="30" width="40" /></a>
+   <a href="https://www.linkedin.com/in/carlos-lopez-195279350/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carloissslpz" height="30" width="40" /></a>
   
 </p>
 
