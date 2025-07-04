@@ -7,24 +7,24 @@
 
 ---
 
-### 🌌 **ABOUT ME**
+### 🌌 **SOBRE MI**
 <div align="center">
 
 ```javascript
-const carlos = {
-    university: "Universidad Francisco de Vitoria",
-    degree: "Ingeniería Informática",
-    passions: ["🏃‍♂️ Deportes", "⚔️ Star Wars", "💻 Desarrollo Web"],
-    currentFocus: "Full Stack Development",
-    funFact: "May the Code be with you! 🌟"
-};
+    const carlos = {
+        university: "Universidad Francisco de Vitoria",
+        degree: "Ingeniería Informática",
+        passions: ["🏃‍♂️ Deportes", "⚔️ Star Wars", "💻 Desarrollo Web"],
+        currentFocus: "Full Stack Development",
+        funFact: "May the Code be with you! 🌟"
+    };
 ```
 
 </div>
 
 ---
 
-## 🌐 **CONNECT WITH ME**
+## 🌐 **MIS REDES**
 
 <div align="center">
   <a href="https://x.com/carlossslpzz" target="_blank">
@@ -43,9 +43,9 @@ const carlos = {
 
 ---
 
-## ⚡ **TECH ARSENAL**
+## ⚡ **MIS LENGUAJES**
 
-### 🎯 **CORE LANGUAGES**
+### 🎯 **LENGUAJES DE DESAROLLO**
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,c,cs,js" />
 </div>
@@ -58,7 +58,7 @@ Languages:
   - JavaScript: "🚀 El futuro del desarrollo"
 ```
 
-### 🎨 **FRONTEND DEVELOPMENT**
+### 🎨 **DESARROLLO FRONTEND**
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js" />
 </div>
@@ -72,32 +72,30 @@ Frontend:
   - JavaScript: "✨ Interactividad dinámica"
 ```
 
-### ⚙️ **BACKEND DEVELOPMENT**
+### ⚙️ **DESAROLLO BACKEND**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,nodejs,js" />
+  <img src="https://skillicons.dev/icons?i=python,js" />
 </div>
 
 ```yaml
 Backend:
-  - Python: "🔥 Flask, FastAPI, Django"
-  - Node.js: "🟢 Runtime moderno"
+  - Python: "🔥 Flask, FastAPI, Automatizaciones"
   - JavaScript: "🌐 Full-stack power"
 ```
 
-### 🗄️ **DATABASE**
+### 🗄️ **BASE DE DATOS**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
 </div>
 
 ```yaml
 Database:
   - MySQL: "🐬 Gestión relacional"
-  - SQLite: "📦 Base de datos ligera"
 ```
 
 ---
 
-## 📊 **GITHUB ANALYTICS**
+## 📊 **MIS ESTADISTICAS**
 
 <!-- STATS Y LENGUAJES MAS USADOS --> 
 <div style="display:grid;align-items:center;justify-content:center"> 
@@ -107,7 +105,7 @@ Database:
 
 ---
 
-## 🎯 **ACTIVITY GRAPH**
+## 🎯 **GRAFICO DE ACTIVIDAD**
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Carlossslpz&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
@@ -115,7 +113,7 @@ Database:
 
 ---
 
-## 🏆 **ACHIEVEMENTS**
+## 🏆 **LOGROS**
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Carlossslpz&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
