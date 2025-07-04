@@ -7,7 +7,7 @@
 
 ---
 
-### 🌌 **ABOUT ME**
+### 🌌 **SOBRE MI**
 ```javascript
 const carlos = {
     university: "Universidad Francisco de Vitoria",
@@ -20,7 +20,7 @@ const carlos = {
 
 ---
 
-## 🌐 **CONNECT WITH ME**
+## 🌐 **MIS REDES**
 
 <div align="center">
   <a href="https://x.com/carlossslpzz" target="_blank">
@@ -36,9 +36,9 @@ const carlos = {
 
 ---
 
-## ⚡ **TECH ARSENAL**
+## ⚡ **MIS TECNOLOGIAS**
 
-### 🎯 **CORE LANGUAGES**
+### 🎯 **LENGUAJE DE DESAROLLO**
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,c,cs,js" />
 </div>
@@ -51,7 +51,7 @@ Languages:
   - JavaScript: "🚀 El futuro del desarrollo"
 ```
 
-### 🎨 **FRONTEND DEVELOPMENT**
+### 🎨 **DESAROLLO FRONTEND**
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js" />
 </div>
@@ -65,9 +65,9 @@ Frontend:
   - JavaScript: "✨ Interactividad dinámica"
 ```
 
-### ⚙️ **BACKEND DEVELOPMENT**
+### ⚙️ **DESAROLLO BACKEND**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,nodejs,js" />
+  <img src="https://skillicons.dev/icons?i=python,js" />
 </div>
 
 ```yaml
@@ -77,20 +77,19 @@ Backend:
   - JavaScript: "🌐 Full-stack power"
 ```
 
-### 🗄️ **DATABASE**
+### 🗄️ **BASES DE DATOS**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
 </div>
 
 ```yaml
 Database:
   - MySQL: "🐬 Gestión relacional"
-  - SQLite: "📦 Base de datos ligera"
 ```
 
 ---
 
-## 📊 **GITHUB ANALYTICS**
+## 📊 **MIS ESTADISTICAS**
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Carlossslpz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/>
@@ -101,9 +100,15 @@ Database:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Carlossslpz&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
 </div>
 
+<!-- STATS Y LENGUAJES MAS USADOS --> 
+<div style="display:grid;align-items:center;justify-content:center"> 
+    <img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats.vercel.app/api?username=Carlossslpz&theme=gotham&count_private=true&show_icons=true&include_all_commits=true"/> 
+    <img style="height:100%;width:49%;max-width: 10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlossslpz&layout=compact&theme=gotham&langs_count=8"/> 
+</div>
+
 ---
 
-## 🎯 **ACTIVITY GRAPH**
+## 🎯 **GRAFICO DE ACTIVIDAD**
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Carlossslpz&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
@@ -111,7 +116,7 @@ Database:
 
 ---
 
-## 🏆 **ACHIEVEMENTS**
+## 🏆 **LOGROS**
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Carlossslpz&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
