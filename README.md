@@ -108,7 +108,7 @@ Database:
 ## 🎯 **GRAFICO DE ACTIVIDAD**
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Carlossslpz&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=carlos-lopez-martinez&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
 ---
@@ -116,7 +116,7 @@ Database:
 ## 🏆 **LOGROS**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Carlossslpz&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=carlos-lopez-martinez&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -125,7 +125,7 @@ Database:
   
 ### 💫 **"The Force will be with you... always"**
   
-  <img src="https://komarev.com/ghpvc/?username=Carlossslpz&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=carlos-lopez-martinez&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile Views" />
   
 </div>
 
